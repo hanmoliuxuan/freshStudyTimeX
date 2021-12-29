@@ -3,7 +3,7 @@
 适用于aq.fhmooc.com
 
 基于Polarisjl/freshStudyTime改进 地址：https://github.com/Polarisjl/freshStudyTime
-___
+
 ## 使用方法
 
 ** config.ini填入用户名密码**
